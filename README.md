@@ -1,6 +1,8 @@
 # Bookstore Mern Stack Project
 <p>This comprehensive book store management application is built with the MERN stack (MongoDB, Express.js, React, Node.js). It provides a user-friendly interface for managing a collection of books, including CRUD operations (Create, Read, Update, Delete), detailed book information, and a responsive design.</p>
 
+![Demo.gif](https://github.com/YUNGU23/Bookstore-Mern-Stack-Project/blob/main/demo.gif?raw=true)
+
 ## Table of Contents
 - Features
 - Prerequisites
